@@ -11,8 +11,8 @@ Cursos oferecidos primeiro semestre 2026
 <details>
 <summary><strong> 📸 Tratamento da Imagem fotográfica</strong></summary>
 
-- [Plano de Ensino](https://docs.google.com/document/d/1NagfpVXDmRkRUXgCczGONsJDbpQ-6fdZlwsNqyh4l-o/edit?usp=sharing)
-- [Aula 1](https://docs.google.com/presentation/d/1umKtgVl_VP0qsrTYbA6rlWq0oZuse4YVLheEh-bKaBU/edit?usp=sharing)
+- [Plano de Ensino](https://drive.google.com/file/d/1bKgaidJvvt4lrzIgkWQb2ecevLcQtwo8/view?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/1YuTEo41d3GihaY6tR-XinBBAu-PbTjdj/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 </details>
 
@@ -20,7 +20,7 @@ Cursos oferecidos primeiro semestre 2026
 <details>
 <summary><strong> 👁️ Percepção Visual  </strong></summary>
 
-- [Plano de Ensino](https://docs.google.com/document/d/1nbhG8kSTFfywqtvsmc9wV0WWqUHK3LarE7byXpHtiTM/edit?usp=sharing)
-- [Aula 1](https://docs.google.com/presentation/d/1X_q3P8XhVwZ2RF_u_dGh_EuZaVJHlQ_e/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+- [Plano de Ensino](https://drive.google.com/file/d/1GoOadiBGAx6yzsD9568XZDSYyV8DncIs/view?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/1fSSIIoVV4hRB8IwFe9_DoEXwitJsKZfP/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 </details>
