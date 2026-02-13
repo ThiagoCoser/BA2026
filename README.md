@@ -24,3 +24,13 @@ Cursos oferecidos primeiro semestre 2026
 - [Aula 1](https://docs.google.com/presentation/d/1fSSIIoVV4hRB8IwFe9_DoEXwitJsKZfP/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 </details>
+
+
+<details>
+<summary><strong> 🏛️ História da Arte </strong></summary>
+
+- [Plano de Ensino](https://drive.google.com/file/d/1dfzFTyU2oKAC9gi4AFHPBeHrcFq8ra0A/view?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/1Sh0-JVbN3nhRb_gRL1p4LS5nXDeRyyoJ/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+- [Gombrich](https://cursoseorientacoes.com/wp-content/uploads/2014/09/historia-da-arte-gombrich.pdf)
+
+</details>
