@@ -34,3 +34,21 @@ Cursos oferecidos primeiro semestre 2026
 - [Gombrich](https://cursoseorientacoes.com/wp-content/uploads/2014/09/historia-da-arte-gombrich.pdf)
 
 </details>
+
+
+<details>
+<summary><strong> 📸 Linguagem Fotográfica </strong></summary>
+
+- [Plano de Ensino](https://drive.google.com/file/d/1D_m1eKTZ7QbvGRfP3VsDL5k-njQitpni/view?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/1YuTEo41d3GihaY6tR-XinBBAu-PbTjdj/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+</details>
+
+
+<details>
+<summary><strong> ✏️ Desenho de observação </strong></summary>
+
+- [Plano de Ensino](https://drive.google.com/file/d/1if5442AMl2fPh24ET190GrWy1rzpPVYy/view?usp=sharing)
+- [Aula 1](https://docs.google.com/presentation/d/180OiGXpCsRd6i3N7aOgFEvnXBV77Bjl4/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+</details>
