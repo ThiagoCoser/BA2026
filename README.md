@@ -46,7 +46,7 @@ Cursos oferecidos primeiro semestre 2026
 
 
 <details>
-<summary><strong> ✏️ Desenho de observação_ </strong></summary>
+<summary><strong> ✏️ Desenho de observação </strong></summary>
 
 - [Plano de Ensino](https://drive.google.com/file/d/1if5442AMl2fPh24ET190GrWy1rzpPVYy/view?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/180OiGXpCsRd6i3N7aOgFEvnXBV77Bjl4/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
