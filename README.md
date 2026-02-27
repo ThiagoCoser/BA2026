@@ -33,6 +33,8 @@ Cursos oferecidos primeiro semestre 2026
 - [Aula 1](https://docs.google.com/presentation/d/1Sh0-JVbN3nhRb_gRL1p4LS5nXDeRyyoJ/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 - [Gombrich](https://cursoseorientacoes.com/wp-content/uploads/2014/09/historia-da-arte-gombrich.pdf)
 
+- [Gombrich](https://drive.google.com/file/d/1qgSYXi2H8U98ps0fMVcEv2dpiY5XNOZE/view?usp=sharing)
+
 </details>
 
 
