@@ -22,7 +22,7 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Plano de Ensino](https://drive.google.com/file/d/1GoOadiBGAx6yzsD9568XZDSYyV8DncIs/view?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/1fSSIIoVV4hRB8IwFe9_DoEXwitJsKZfP/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
-- [Sintaxer Da Linguagem Visual](https://drive.google.com/file/d/1KHxhNRnardRpHtlFFUIlXIUJqZsM4TzA/view?usp=sharing)
+- [Sintaxe Da Linguagem Visual](https://drive.google.com/file/d/1KHxhNRnardRpHtlFFUIlXIUJqZsM4TzA/view?usp=sharing)
 
 
 </details>
