@@ -14,6 +14,11 @@ Cursos oferecidos primeiro semestre 2026
 - [Plano de Ensino](https://drive.google.com/file/d/1bKgaidJvvt4lrzIgkWQb2ecevLcQtwo8/view?usp=sharing)
 - [Aula 1](https://docs.google.com/presentation/d/1YuTEo41d3GihaY6tR-XinBBAu-PbTjdj/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+- [A mensagem fotográfica](https://pt.scribd.com/document/721968193/BARTHES-A-mensagem-fotografica)
+
+
+
+
 </details>
 
 
