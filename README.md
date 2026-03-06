@@ -57,6 +57,10 @@ Cursos oferecidos primeiro semestre 2026
 - [Aula 1](https://docs.google.com/presentation/d/1YuTEo41d3GihaY6tR-XinBBAu-PbTjdj/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 - [Aula 2](https://docs.google.com/presentation/d/1TFmucVolTkgtaKTpVKZJxonkJz8lnT2d/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+- [Aula 3](https://docs.google.com/presentation/d/1xA0epxDWtzzslB0QVuEbe9BJHTuaNRuN/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+
+
 </details>
 
 
