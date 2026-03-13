@@ -41,11 +41,10 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Aula 2](https://docs.google.com/presentation/d/12jpfc-gq8hf60_pfBfDiYPnE8JD_f5v7/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+- [Aula 3](https://docs.google.com/document/d/1SL4oCqQ2XgGGwoWKWlEE-tP-sDPzaH4QZ2O6H6uYD-8/edit?usp=sharing)
 
 
-- [Gombrich](https://drive.google.com/file/d/1qgSYXi2H8U98ps0fMVcEv2dpiY5XNOZE/view?usp=sharing)
-
-- [A Caverna dos Sonhos Esquecidos](https://drive.google.com/drive/folders/1oQqOA0DWjj0Qxh6PzBvPBoaUMRd_1l8H?usp=sharing)
+- [Materiais](https://drive.google.com/drive/folders/1AUvmgeOZdyO6KoBsjpxA26wtewnHflxB?usp=sharing)
 
 </details>
 
