@@ -26,7 +26,17 @@ Cursos oferecidos primeiro semestre 2026
 <summary><strong> 👁️ Percepção Visual  </strong></summary>
 
 - [Plano de Ensino](https://drive.google.com/file/d/1GoOadiBGAx6yzsD9568XZDSYyV8DncIs/view?usp=sharing)
+
 - [Aula 1](https://docs.google.com/presentation/d/1fSSIIoVV4hRB8IwFe9_DoEXwitJsKZfP/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+- [Aula 2](https://docs.google.com/presentation/d/17pLYDL-k-DLATXwj6GQb6Jkul9QGbIIT/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+- [Lista de exercícios](https://docs.google.com/presentation/d/1Ps1GHbxu5Y7jM-fJ4_A9WbEu1vS6dzYq/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+
+
+
+
+
 - [Sintaxe Da Linguagem Visual](https://drive.google.com/file/d/1KHxhNRnardRpHtlFFUIlXIUJqZsM4TzA/view?usp=sharing)
 
 
