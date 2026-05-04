@@ -6,6 +6,8 @@ Cursos oferecidos primeiro semestre 2026
 
 [Salas e horários](https://docs.google.com/spreadsheets/d/1Q3KXxgA_GqOxPW_qClNRTrUMQuYtaHY6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
+[Horas Complementares](https://docs.google.com/document/d/1psH-DnF0g9FQ-K_NbPdO4YtQUHNSsnR4EqyE9VSrGw0/edit?usp=sharing)
+
 # Cursos e materiais
 
 <details>
