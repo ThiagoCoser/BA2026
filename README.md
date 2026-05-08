@@ -63,6 +63,8 @@ Cursos oferecidos primeiro semestre 2026
 
 - [Aula 5](https://docs.google.com/document/d/1Pw3_-JbRVYKTuTEnytzDvW9sOkzMcL6x3UhDHROzg0Y/edit?usp=sharing)
 
+- [Aula 6](https://docs.google.com/document/d/1S2XnP_Hg4FWsIlRuXiTnZNFClUKktOcjHeNiroThYbE/edit?usp=sharing)
+
 - [Exercício Renascimento](https://docs.google.com/document/d/1q3kH1gqUj5qncQ75EjlEhyI7soclgbIrswk7pcKbNTs/edit?usp=sharing)
 
 - [Materiais](https://drive.google.com/drive/folders/1IX2J7YFV3E8PL3fnuUIhb8vHNZDhqsWC?usp=sharing)
