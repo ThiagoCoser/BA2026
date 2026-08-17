@@ -1,5 +1,12 @@
 # Belas Artes -  Cursos
 
+
+
+Cursos oferecidos segundo semestre 2026
+
+- [Mídias](https://docs.google.com/presentation/d/1RSHqz2NPjRgmL1gkLwDgUk6UOtKFSLgG/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+
 Cursos oferecidos primeiro semestre 2026
 
 [Calendário Acadêmico](https://drive.google.com/file/d/1eC51FCfNFqv8O-7k4hv-16wwUvY6MUu3/view?usp=sharing)
