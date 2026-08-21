@@ -8,7 +8,7 @@ Cursos oferecidos segundo semestre 2026
 
 - [Criativa](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
--[Gravura](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
+- [Gravura](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
 
 
 Cursos oferecidos primeiro semestre 2026
