@@ -1,6 +1,6 @@
 # Belas Artes -  Cursos 2026
 
-[Calendário Acadêmico](https://drive.google.com/file/d/1eC51FCfNFqv8O-7k4hv-16wwUvY6MUu3/view?usp=sharing)
+[Calendário Acadêmico](https://drive.google.com/file/d/1BpPxMad1WnNcgE57JwZgXPZolGsS3eQw/view?usp=sharing)
 
 [Horas Complementares](https://docs.google.com/document/d/1nHQo24PpuQkUnFOXZNXTrQniHagdeTId/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
