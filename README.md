@@ -1,33 +1,66 @@
-# Belas Artes -  Cursos
-
-
-
-Cursos oferecidos segundo semestre 2026
-
-
-
-
-
-- [Mídias](https://docs.google.com/presentation/d/1RSHqz2NPjRgmL1gkLwDgUk6UOtKFSLgG/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
-
-- [Trabalho 1](https://drive.google.com/drive/folders/1mwu6kPWKK8ceUCS0As5E8nTYKBnuiD0i?usp=sharing)
-
-- [Criativa](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
-
-- [Gravura](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
-
-- [Hachura](
-https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
-
-Cursos oferecidos primeiro semestre 2026
+# Belas Artes -  Cursos 2026
 
 [Calendário Acadêmico](https://drive.google.com/file/d/1eC51FCfNFqv8O-7k4hv-16wwUvY6MUu3/view?usp=sharing)
 
-[Salas e horários](https://docs.google.com/spreadsheets/d/1Q3KXxgA_GqOxPW_qClNRTrUMQuYtaHY6/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
+[Horas Complementares](https://docs.google.com/document/d/1nHQo24PpuQkUnFOXZNXTrQniHagdeTId/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-[Horas Complementares](https://docs.google.com/document/d/1psH-DnF0g9FQ-K_NbPdO4YtQUHNSsnR4EqyE9VSrGw0/edit?usp=sharing)
+## Segundo semestre
 
-# Cursos e materiais
+
+<details>
+<summary><strong> Convergências de mídias e redes: produção de conteúdo</strong></summary>
+
+- [Aula](https://docs.google.com/presentation/d/1RSHqz2NPjRgmL1gkLwDgUk6UOtKFSLgG/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+- [Trabalho 1](https://drive.google.com/drive/folders/1mwu6kPWKK8ceUCS0As5E8nTYKBnuiD0i?usp=sharing)
+
+
+</details>
+
+
+
+<details>
+<summary><strong>Representação técnica e criativa</strong></summary>
+
+
+- [Criativa](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+</details>
+
+
+
+
+<details>
+<summary><strong>Ilustração Digital </strong></summary>
+
+- [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+- [Arquivos Suporte Photoshop]()
+
+</details>
+
+
+
+
+<details>
+<summary><strong>Gravuras e superfícies</strong></summary>
+
+- [Aula](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
+
+- [Aula 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+- [Exercício 1](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+- [Exercício 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
+</details>
+
+
+
+
+
+
+## Primeiro Semestre
 
 <details>
 <summary><strong> 📸 Tratamento da Imagem fotográfica</strong></summary>
@@ -36,7 +69,6 @@ Cursos oferecidos primeiro semestre 2026
 - [Aula 1](https://docs.google.com/presentation/d/1YuTEo41d3GihaY6tR-XinBBAu-PbTjdj/edit?usp=sharing&ouid=118042789449122670587&rtpof=true&sd=true)
 
 - [A mensagem fotográfica](https://pt.scribd.com/document/721968193/BARTHES-A-mensagem-fotografica)
-
 
 
 
