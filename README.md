@@ -18,9 +18,9 @@
 </details>
 
 
-
 <details>
 <summary><strong>Representação técnica e criativa</strong></summary>
+
 
 - [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
