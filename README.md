@@ -12,7 +12,7 @@
 
 - [Aula](https://docs.google.com/presentation/d/1RSHqz2NPjRgmL1gkLwDgUk6UOtKFSLgG/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-- [Trabalho 1](https://drive.google.com/drive/folders/1mwu6kPWKK8ceUCS0As5E8nTYKBnuiD0i?usp=sharing)
+- [Trabalho 1](https://docs.google.com/presentation/d/14ieD-ZaDutceGivLBexF0de9T-DvhygO/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
 
 </details>
