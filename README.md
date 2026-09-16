@@ -35,7 +35,7 @@
 
 - [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-- [Arquivos Suporte Photoshop]()
+- [Arquivos Suporte Photoshop](https://drive.google.com/drive/folders/18zgifs8l-cWJv1VRk7S1GFLOibmy90Xe?usp=sharing)
 
 </details>
 
