@@ -10,6 +10,8 @@
 <details>
 <summary><strong> Convergências de mídias e redes: produção de conteúdo</strong></summary>
 
+- [Ementa](https://docs.google.com/document/d/1mYMxp749dfL03slHLpU2kdlb13nHxPW73IAy-g60lIU/edit?usp=sharing)
+
 - [Aula](https://docs.google.com/presentation/d/1RSHqz2NPjRgmL1gkLwDgUk6UOtKFSLgG/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
 - [Trabalho 1](https://docs.google.com/presentation/d/14ieD-ZaDutceGivLBexF0de9T-DvhygO/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
@@ -21,6 +23,7 @@
 <details>
 <summary><strong>Representação técnica e criativa</strong></summary>
 
+- [Ementa](https://docs.google.com/document/d/1DQ3dfEiqc2hHkYaZaS116_y5xtuMxXVeD3Z4QqwU5G0/edit?usp=sharing)
 
 - [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
@@ -32,7 +35,9 @@
 <details>
 <summary><strong>Ilustração Digital </strong></summary>
 
-- [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+- [Ementa](https://docs.google.com/document/d/1f_30tu4U-IuukvEVFbfsZlTuqxuzNAUI46cJzRUmpOM/edit?usp=sharing)
+
+- [Aula](https://docs.google.com/presentation/d/15Y86xBnueLSZgDeU2z2bv-kHr2_1ba9d/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
 - [Arquivos Suporte Photoshop](https://drive.google.com/drive/folders/18zgifs8l-cWJv1VRk7S1GFLOibmy90Xe?usp=sharing)
 
@@ -44,13 +49,14 @@
 <details>
 <summary><strong>Gravuras e superfícies</strong></summary>
 
+- [Ementa](https://docs.google.com/document/d/1gVfj4tQFflD30vL9iwyVwDxu_ZEPeggXoJ_RQjZEUTM/edit?usp=sharing)
+
 - [Aula](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
 
 - [Aula 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-- [Exercício 1](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
-
 - [Exercício 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+
 
 </details>
 
