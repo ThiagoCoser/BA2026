@@ -53,7 +53,7 @@
 
 - [Aula](https://drive.google.com/file/d/1apL93bNDL_QTvTgIYyBG4-Xr2Vj-IA30/view?usp=sharing)
 
-- [Aula 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+- [Aula 2](https://docs.google.com/presentation/d/1vnaKgePyy8kF1E2tvh6afx1o5wY-L4Lf/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
 - [Exercício 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
