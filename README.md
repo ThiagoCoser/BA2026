@@ -55,7 +55,7 @@
 
 - [Aula 2](https://docs.google.com/presentation/d/1vnaKgePyy8kF1E2tvh6afx1o5wY-L4Lf/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-- [Exercício 2](https://docs.google.com/presentation/d/1kkyzWTfO6QRsXH3GeZqJnlNLNSi2SQpg/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
+- [Exercício 2](https://docs.google.com/presentation/d/1FcfhxVtyH9oS1_twsvOHqDUDo1ffZ_Dv/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
 
 </details>
