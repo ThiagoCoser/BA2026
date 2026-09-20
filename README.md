@@ -16,6 +16,8 @@
 
 - [Trabalho 1](https://docs.google.com/presentation/d/14ieD-ZaDutceGivLBexF0de9T-DvhygO/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
+- [Trabalho 2](https://docs.google.com/document/d/1N_ScxtfR1s2VzaJ7sjqDzUK0m6JWgxgE0up1Bm_RPWE/edit?usp=sharing)
+
 
 </details>
 
