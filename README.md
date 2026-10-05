@@ -29,7 +29,7 @@
 
 - [Aula](https://docs.google.com/presentation/d/1AJmtyEP4usAnVfy3bZMCxtklXE8CKksM/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
-- [Livros] (https://drive.google.com/drive/folders/1rIZa0x0vL0xvHOOXGSK7ugl9wre7UJBf?usp=sharing)
+- [Livros](https://drive.google.com/drive/folders/1rIZa0x0vL0xvHOOXGSK7ugl9wre7UJBf?usp=sharing)
 
 </details>
 
