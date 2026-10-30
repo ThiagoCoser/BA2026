@@ -61,6 +61,8 @@
 
 - [Exercício 2](https://docs.google.com/presentation/d/1FcfhxVtyH9oS1_twsvOHqDUDo1ffZ_Dv/edit?usp=sharing&ouid=108939722451372463701&rtpof=true&sd=true)
 
+- [Workshop](https://drive.google.com/drive/folders/1grmToVnlxBvobwkrqFK9dCg2oImFuRmn?usp=sharing)
+
 
 </details>
 
